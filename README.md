@@ -1,14 +1,10 @@
-# simple-vuejs-websocket-client
+# Simple VueJS WebSocket Client
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+Uses Postman's Raw WebSocket service to show how sockets works.
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Open src/App.vue and change websocket server
 
 ## Project Setup
 
@@ -20,10 +16,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
