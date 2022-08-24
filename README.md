@@ -1,6 +1,8 @@
 # Simple VueJS WebSocket Client
 
-Uses Postman's Raw WebSocket service to show how sockets works.
+Show on browser console whatever it have received from WebSocket channel it is connected to.
+
+Uses Postman's Raw WebSocket service to show how sockets works and can be used to debug a WebSocket channel.
 
 # How to Use
 
